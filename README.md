@@ -20,7 +20,16 @@ I design and implement scalable Unity architectures, optimize performance, and b
   - ✈️ Flight System: Realistic physics‑based helicopter controls for lift, thrust, and maneuvering  
   - 🎥 Camera Modes: Multiple dynamic camera setups (cockpit, chase, cinematic)  
   - 🔫 Weapon Systems: Configurable and extendable weapon setup  
-  - 🧩 Architecture: Interfaces, inheritance, and events to enforce separation of concerns and scalability  
+  - 🧩 Architecture: Interfaces, inheritance, and events to enforce separation of concerns and scalability
+
+- 🚀 **AsteroidShooter2D (Unity | VContainer DI + TDD)**  
+  *A 2D arcade shooter demonstrating Dependency Injection (VContainer) and Test‑Driven Development practices.*  
+
+  - 🎮 Gameplay: Control a rocket to destroy incoming asteroids; precision scoring with penalties for misses  
+  - 🛠️ Technical Highlights:  
+    - VContainer DI for modular, decoupled systems  
+    - Unit‑tested core mechanics (scoring, penalties, rocket controls)  
+    - Clean architecture with separation of concerns across gameplay, UI, and data  
 
 ---
 
